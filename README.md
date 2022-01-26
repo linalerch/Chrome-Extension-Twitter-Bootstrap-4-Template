@@ -2,7 +2,7 @@
 
 This is a template to make Google Chrome Extension with Twitter Bootstrap 4 (ver. 4.6.1). It is intended to be a continuation of the [Github repository "Chrome-Extension-Twitter-Bootstrap-3-Template Public" by Ehesep](https://github.com/Ehesp/Chrome-Extension-Twitter-Bootstrap-3-Templat)
 
-**Please be aware that the Bootstrap codes are made by Twitter-Bootstrap, not by me. All credits regarding Bootstrap goes to their developers. I am only integrating their codes in an Google Chrome extension environment.**
+**Please be aware that the Bootstrap codes are made by Twitter-Bootstrap, not by me. All credits regarding Bootstrap goes to their developers. I am only integrating their codes in a Google Chrome extension environment.**
 
 ## Package structure:
 ```
