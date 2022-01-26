@@ -2,32 +2,36 @@
 
 This is a template to make Google Chrome Extension with Twitter Bootstrap 4 (ver. 4.6.1). It is intended to be a continuation of the [Github repository "Chrome-Extension-Twitter-Bootstrap-3-Template Public" by Ehesep](https://github.com/Ehesp/Chrome-Extension-Twitter-Bootstrap-3-Template)
 
-**Please be aware that the Bootstrap codes are made by Twitter-Bootstrap, not by me. All credits regarding Bootstrap go to their developers. I am only integrating their codes in a Google Chrome extension environment.**
+**Please be aware that the Bootstrap codes are made by Twitter-Bootstrap, not by me. All credits regarding Bootstrap go to their developers. There were no changes made to their codes. I am only integrating their codes in a Google Chrome extension environment.**
 
 ## Package structure:
 ```
 - bootstrap-4.6.1-dist/
 	-- css/
-    --- bootstrap-grid.css
-    --- bootstrap-grid.css.map
-    --- bootstrap-grid.min.css.map
-    --- bootstrap-reboot.css
-    --- bootstrap-reboot.css.map
-    --- bootstrap-reboot.min.css
-    --- bootstrap-reboot.min.css.map
-    --- bootstrap.css
-    --- bootstrap.css.map
-    --- bootstrap.min.css
-    --- bootstrap.min.css.map
+    		--- bootstrap-grid.css
+   		--- bootstrap-grid.css.map
+    		--- bootstrap-grid.min.css.map
+    		--- bootstrap-reboot.css
+    		--- bootstrap-reboot.css.map
+    		--- bootstrap-reboot.min.css
+    		--- bootstrap-reboot.min.css.map
+    		--- bootstrap.css
+    		--- bootstrap.css.map
+    		--- bootstrap.min.css
+    		--- bootstrap.min.css.map
 	-- js/
-    --- bootstrap.bundle.js
-    --- bootstrap.bundle.js.map
-    --- bootstrap.bundle.min.js
-    --- bootstrap.bundle.min.js.map
-    --- bootstrap.js
-    --- bootstrap.js.map
-    --- bootstrap.min.js
-    --- bootstrap.min.js.map
+    		--- bootstrap.bundle.js
+    		--- bootstrap.bundle.js.map
+    		--- bootstrap.bundle.min.js
+    		--- bootstrap.bundle.min.js.map
+    		--- bootstrap.js
+    		--- bootstrap.js.map
+    		--- bootstrap.min.js
+    		--- bootstrap.min.js.map
+- bootstrap-additionals/
+	-- jquery.slim.min.js
+	-- popper.min.js
+	
 - README.md
 - icon.png
 - iconLg.png
