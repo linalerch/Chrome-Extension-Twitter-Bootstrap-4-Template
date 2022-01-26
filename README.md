@@ -4,7 +4,8 @@ This is a template to make Google Chrome Extension with Twitter Bootstrap 4 (ver
 
 **Please be aware that the Bootstrap codes are made by Twitter-Bootstrap, not by me. All credits regarding Bootstrap goes to their developers. I am only integrating their codes in an Google Chrome extension environment.**
 
-Package structure:
+## Package structure:
+```
 - bootstrap-4.6.1-dist/
 	-- css/
     --- bootstrap-grid.css
@@ -34,7 +35,7 @@ Package structure:
 - popup.css
 - popup.html
 - popup.js
-
+```
 ## Usage
 Browser > Extensions > Developer mode > Load unpacked
 
